@@ -1,0 +1,8 @@
+C:\Users\umasa\source\repos\PAWNCHESS\bin\Debug\PAWNCHESS.exe.config
+C:\Users\umasa\source\repos\PAWNCHESS\bin\Debug\PAWNCHESS.exe
+C:\Users\umasa\source\repos\PAWNCHESS\bin\Debug\PAWNCHESS.pdb
+C:\Users\umasa\source\repos\PAWNCHESS\obj\Debug\PAWNCHESS.csproj.AssemblyReference.cache
+C:\Users\umasa\source\repos\PAWNCHESS\obj\Debug\PAWNCHESS.csproj.SuggestedBindingRedirects.cache
+C:\Users\umasa\source\repos\PAWNCHESS\obj\Debug\PAWNCHESS.csproj.CoreCompileInputs.cache
+C:\Users\umasa\source\repos\PAWNCHESS\obj\Debug\PAWNCHESS.exe
+C:\Users\umasa\source\repos\PAWNCHESS\obj\Debug\PAWNCHESS.pdb
